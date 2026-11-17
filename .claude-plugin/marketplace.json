@@ -1,0 +1,15 @@
+{
+  "name": "kraya-plugins",
+  "description": "Plugins for managing a Kraya CRM account from your AI assistant",
+  "owner": {
+    "name": "Kraya",
+    "url": "https://kraya-ai.com"
+  },
+  "plugins": [
+    {
+      "name": "kraya",
+      "source": "./plugins/kraya",
+      "description": "Change how your AI replies to leads and test it first, build follow-up sequences and Smart Triggers, and find out why something went wrong."
+    }
+  ]
+}

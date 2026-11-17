@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kraya": {
+      "type": "http",
+      "url": "https://api.kraya-ai.com/mcp"
+    }
+  }
+}

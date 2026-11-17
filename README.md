@@ -1,0 +1,35 @@
+# Kraya Plugins
+
+Plugins that let your AI assistant manage your [Kraya](https://kraya-ai.com) account.
+
+## Kraya
+
+Manage your Kraya CRM account by talking to Claude. The plugin pairs the Kraya connector with three skills that teach Claude how to change a live account safely:
+
+| Skill | Ask for it when |
+|---|---|
+| Improve AI replies | The AI gave a wrong answer, quotes an old price, or should ask different questions |
+| Build follow-ups | You want a follow-up sequence, a Smart Trigger, a broadcast or a template |
+| Investigate an issue | A lead didn't get a reply, or a sequence or trigger didn't behave as expected |
+
+Your account is live, so Claude shows you what will change and asks before changing anything that affects real leads.
+
+### Install in Claude (web or desktop app)
+
+1. Open **Customize > Plugins > Add > Add marketplace** and paste `https://github.com/Kraya-AI/Kraya-Plugins`.
+2. Install **Kraya** from the list.
+3. Open the plugin's **Connectors** tab, connect Kraya, and sign in with your Kraya login.
+
+### Install in Claude Code
+
+```bash
+claude plugin marketplace add Kraya-AI/Kraya-Plugins
+```
+
+```bash
+claude plugin install kraya@kraya-plugins
+```
+
+### Data
+
+The plugin sends your requests to your own Kraya account through api.kraya-ai.com, using the access you approve when you connect. It stores nothing itself. See the [Privacy Policy](https://kraya-ai.com/privacy-policy).

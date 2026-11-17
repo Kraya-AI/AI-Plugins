@@ -1,0 +1,13 @@
+{
+  "name": "kraya",
+  "displayName": "Kraya",
+  "version": "0.1.1",
+  "description": "Manage your Kraya CRM account from a conversation: change how your AI replies to leads and test it first, build follow-up sequences and Smart Triggers, and find out why something went wrong.",
+  "author": {
+    "name": "Kraya",
+    "url": "https://kraya-ai.com"
+  },
+  "privacyPolicyUrl": "https://kraya-ai.com/privacy-policy",
+  "homepage": "https://kraya-ai.com",
+  "repository": "https://github.com/Kraya-AI/Kraya-Plugins"
+}
