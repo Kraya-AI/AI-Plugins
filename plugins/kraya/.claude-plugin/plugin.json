@@ -1,7 +1,7 @@
 {
   "name": "kraya",
-  "displayName": "Kraya",
-  "version": "0.1.3",
+  "displayName": "Kraya-AI",
+  "version": "0.1.4",
   "description": "Manage your Kraya CRM account from a conversation: change how your AI replies to leads and test it first, build follow-up sequences and Smart Triggers, and find out why something went wrong.",
   "author": {
     "name": "Kraya",
@@ -10,5 +10,18 @@
   "privacyPolicyUrl": "https://kraya-ai.com/privacy-policy",
   "homepage": "https://kraya-ai.com",
   "repository": "https://github.com/Kraya-AI/AI-Plugins",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "sales",
+    "leads",
+    "whatsapp",
+    "lead-management",
+    "follow-ups",
+    "sales-automation",
+    "ai-replies"
+  ],
+  "supportUrl": "https://kraya-ai.com/contact-us",
+  "documentationUrl": "https://docs.kraya-ai.com/docs/integrations/ai-assistants",
+  "termsOfServiceUrl": "https://kraya-ai.com/terms-and-conditions"
 }
