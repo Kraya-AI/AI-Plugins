@@ -4,10 +4,10 @@ Manage your Kraya CRM account by talking to your AI assistant. The plugin pairs 
 
 ## Install
 
-In Claude, open **Customize > Plugins > Add > Add marketplace** and paste `https://github.com/Kraya-AI/Kraya-Plugins`, then install **Kraya**. In Claude Code:
+In Claude, open **Customize > Plugins > Add > Add marketplace** and paste `https://github.com/Kraya-AI/AI-Plugins`, then install **Kraya**. In Claude Code:
 
 ```
-/plugin install kraya --marketplace Kraya-AI/Kraya-Plugins
+/plugin install kraya --marketplace Kraya-AI/AI-Plugins
 ```
 
 ## Use it

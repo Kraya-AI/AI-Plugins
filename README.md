@@ -16,14 +16,14 @@ Your account is live, so Claude shows you what will change and asks before chang
 
 ### Install in Claude (web or desktop app)
 
-1. Open **Customize > Plugins > Add > Add marketplace** and paste `https://github.com/Kraya-AI/Kraya-Plugins`.
+1. Open **Customize > Plugins > Add > Add marketplace** and paste `https://github.com/Kraya-AI/AI-Plugins`.
 2. Install **Kraya** from the list.
 3. Open the plugin's **Connectors** tab, connect Kraya, and sign in with your Kraya login.
 
 ### Install in Claude Code
 
 ```bash
-claude plugin marketplace add Kraya-AI/Kraya-Plugins
+claude plugin marketplace add Kraya-AI/AI-Plugins
 ```
 
 ```bash
