@@ -32,4 +32,4 @@ claude plugin install kraya@kraya-ai-plugins
 
 ### Data
 
-The plugin sends your requests to your own Kraya account through api.kraya-ai.com, using the access you approve when you connect. It stores nothing itself. See the [Privacy Policy](https://kraya-ai.com/privacy-policy).
+The plugin sends your requests to your own Kraya account through api.kraya-ai.com, using the access you approve when you connect. The plugin stores nothing itself. Changes you approve are saved in your Kraya account, and Kraya keeps a record of the actions your assistant takes there. See the [Privacy Policy](https://kraya-ai.com/privacy-policy).
