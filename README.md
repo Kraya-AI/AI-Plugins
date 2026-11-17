@@ -27,7 +27,7 @@ claude plugin marketplace add Kraya-AI/AI-Plugins
 ```
 
 ```bash
-claude plugin install kraya@kraya-plugins
+claude plugin install kraya@kraya-ai-plugins
 ```
 
 ### Data
